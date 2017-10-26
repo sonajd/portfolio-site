@@ -1,1 +1,2 @@
-# portfolio-site
+As my first project on github i'm going to build a portfolio site for myself.
+More infos on the project coming later...
